@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashfeen Fatima</h1>
-<h3 align="center">CS undergrad | COMSATS University Islamabad"</h3>
+<h3 align="center">CS undergrad | COMSATS University Islamabad</h3>
 
 - 🔭 I’m currently working on **Flutter projects**
 
